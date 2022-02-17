@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Mike Odhiambo
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React and Node
+Hello there!
+- :man: I’m Mike Odhiambo
+- :computer: I’m interested in Web development
+- :books: I’m currently learning React and Node
 - 📫 Reach me via odhiambomike413@gmail.com
 
 <!---
