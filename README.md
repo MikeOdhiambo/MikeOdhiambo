@@ -1,8 +1,8 @@
 Hello there!
 - :man: I’m Mike Odhiambo
 - :computer: I’m interested in Web development
-- :books: I’m currently looking into React and Node
 - :school: Studying Software Engineering at ALX
+- :books: I’m currently looking into React and Node
 - 📫 Reach me via odhiambomike413@gmail.com
 
 <!---
