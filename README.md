@@ -1,6 +1,6 @@
 ### Hello there!
 - :man: I’m Mike Odhiambo
-- :computer: Exploring Frontend web development
+- :computer: A Frontend web developer
 - :school: Student at ALX- Software Engineering
 - :email: odhiambomike413@gmail.com
 
